@@ -1,0 +1,20 @@
+import java.util.Scanner;
+import java.lang.Math;
+public class Guess
+{
+public static void main(String[] args)
+{
+// my guess number is between 1-100
+
+int guess_num=(int)(Math.random() *100)+1;
+Scanner sc=new Scanner(System.in);
+
+// the number of times the user can try is
+int t=4;
+
+
+
+
+
+
+
